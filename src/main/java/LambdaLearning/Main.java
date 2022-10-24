@@ -1,3 +1,5 @@
+package LambdaLearning;
+
 import java.util.Random;
 import java.util.function.IntBinaryOperator;
 

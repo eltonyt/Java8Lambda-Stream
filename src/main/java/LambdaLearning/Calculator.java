@@ -1,3 +1,5 @@
+package LambdaLearning;
+
 @FunctionalInterface
 public interface Calculator {
 
